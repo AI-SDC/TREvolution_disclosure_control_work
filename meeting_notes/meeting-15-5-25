@@ -1,0 +1,42 @@
+# Meeting 15th May 2025
+
+
+### Present: AlbaC-B, Hannah G, James L, Jim S., Richard P., Simon R 
+
+### Apologies
+Simon R., Lewis H.
+
+## Agenda:
+
+
+
+### outstanding actions
+- @Jim  move action list to separate document
+- comment on ml risk agreement  -->@jim to update to new version
+
+### Round-the table updates
+- Hannah's doc on SVM risks - where do we assemble this? @all comment
+  - @Hannah: write code to determine whether model stores vectors and add to structural attacks
+  - looks at using panddsoc to convert ther markdown to rst so we can put inb readthedocs.io
+
+Decision: we will put all of our docs (including process stuff) in a folder in the docs/source folder on sacro-ml
+
+- JL had looked at RMIA and a couple from Imperial: 
+   - paper from imperial: sampling strategy for membership infernce  attacks, 
+   - second paper (James to add) looks at training losses for different records - could be useful to identify points-at-risk
+   - RMIA: may be implementable, we should probably look at => to do over the summer
+
+- Richard: PR for pytorch big refactor, moving on to dataloaders, Trans DP paper 'minor reviews' 
+
+- JS: new starters, server, abstract with Alba, 
+
+### Discussion items
+- RO-CRATES
+  - what we put in a record and using what meta-data schema, @alba to circulate email invite to explainer meeting
+- Alan Turing institute doc
+
+- omgoing operational issues: @Jim to incldue alba in meetigns about ai with early adopters
+
+### Next chair
+
+
