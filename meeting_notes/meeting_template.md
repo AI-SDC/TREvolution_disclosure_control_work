@@ -2,7 +2,7 @@
 
 
 ### Present: 
-AlbaC-B, Hannah G, James L, Jim S.,KY A., PETAR R., Richard P., Simon R 
+AlbaC-B, Hannah G, James L, Jim S.,Kay A., Petar R., Richard P., Simon R 
 
 ### Apologies
 
