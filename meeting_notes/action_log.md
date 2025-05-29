@@ -6,3 +6,4 @@
 - [ ] @Hannah tranlsate doc to .rst and put in sacro-ml/docs/explainers
 - [ ] @Hannah to write code to determine whether model stores vectors and add to structural attack **move to issue**
 - [ ] @Jim to update issues/planning now people are in place
+- [ ] @Richard to add papers to zotero on :zero cost proxies, and 'differencing' risk for updated versions of ML models
