@@ -32,9 +32,8 @@ OpenML provide open datasets and **tasks** which define specific problems to be 
 
 See [scikit-learn docs](https://docs.openml.org/ecosystem/Scikit-learn/)
 
-OpenML Task IDs used previously for [Bertran et al. (2023)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/01328d0767830e73a612f9073e9ff15f-Abstract-Conference.html):
+OpenML **Task IDs** used previously for [Bertran et al. (2023)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/01328d0767830e73a612f9073e9ff15f-Abstract-Conference.html):
 
-Task IDs:
 * 361057
 * 361064
 * 361067
@@ -44,7 +43,7 @@ Additional OpenML tabular dataset Task IDs, previously used for benchmarking tre
 
 OpenML datasets used previously for [Preen and Smith (2025)](https://arxiv.org/abs/2502.09396):
 
-DataSet IDs (**note: identify appropriate Task ID instead for consistency**):
+**Dataset IDs** (**note: identify appropriate Task ID instead for consistency**):
 * 41946 - Sick
 * 310 - Mammography
 
