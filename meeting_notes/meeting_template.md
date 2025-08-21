@@ -2,19 +2,37 @@
 
 
 ### Present: 
-AlbaC-B, Hannah G, James L, Jim S.,Kay A., Petar R., Richard P., Simon R 
+AlbaC-B, Anwar, Hannah G, James L, Jim S.,Kay A., Petar R., Richard P., Simon R 
 
 ### Apologies
 
-## Agenda:
-
-### outstanding actions
-
 
 ### Round-the table updates
+Alba:
+
+Anwar: 
+
+Hannah:
+
+James L:
+
+Jim S:
+
+Kay:
+
+Petar:
+
+Richard:
+
+Simon:
+
+## Agenda:
+
+### outstanding actions/ issues arising from updates
 
 
-### Discussion items
+
+### Substantive Discussion item
 
 
 ### Next chair
