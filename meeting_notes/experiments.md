@@ -34,24 +34,24 @@ See [scikit-learn docs](https://docs.openml.org/ecosystem/Scikit-learn/)
 
 OpenML **Task IDs** used previously for [Bertran et al. (2023)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/01328d0767830e73a612f9073e9ff15f-Abstract-Conference.html):
 
-* 361057  **YES: First Phase**
-* 361064  **YES: First Phase**
-* 361067  **YES: First Phase**
-* 361070  **YES: First Phase** 
+* 361057  **YES: First Phase** Tabular
+* 361064  **YES: First Phase** Tabular
+* 361067  **YES: First Phase** Tabular
+* 361070  **YES: First Phase** Tabular
 
 Additional OpenML tabular dataset Task IDs, previously used for benchmarking tree-based models and deep neural networks can be found in [Grinsztajn et al. (2022)](https://arxiv.org/abs/2207.08815)
 
 OpenML datasets used previously for [Preen and Smith (2025)](https://arxiv.org/abs/2502.09396):
 
 **Dataset IDs** (**note: identify appropriate Task ID instead for consistency**):
-* 41946 - Sick    **YES: First Phase**
-* 310 - Mammography **YES: First Phase**
+* 41946 - Sick    **YES: First Phase** Tabular **High Priority**
+* 310 - Mammography **YES: First Phase** Tabular **High Priority**
 
 Additional datasets used previously for [Preen and Smith (2025)](https://arxiv.org/abs/2502.09396):
 
-* [Indian Liver](https://doi.org/10.24432/C5D02C)  **YES: First Phase**
-* [MIMIC-II](https://doi.org/10.13026/C2NC7F)        **YES: First Phase**
-* In-hospital-mortality---extracted from [MIMIC-III](https://doi.org/10.5061/dryad.0p2ngf1zd)  **YES: First Phase**
+* [Indian Liver](https://doi.org/10.24432/C5D02C)  **YES: First Phase** Tabular**High Priority**
+* [MIMIC-II](https://doi.org/10.13026/C2NC7F)        **YES: First Phase** Tabular **High Priority**
+* In-hospital-mortality---extracted from [MIMIC-III](https://doi.org/10.5061/dryad.0p2ngf1zd)  **YES: First Phase** Tabular **High Priority**
 
 ## Target Models
 
