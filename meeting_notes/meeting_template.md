@@ -2,12 +2,12 @@
 
 
 ### Present: 
-AlbaC-B, Anwar, Hannah G, James L, Jim S.,Kay A., Petar R., Richard P., Simon R 
+AlbaC-B, Anwar, Hannah G, James L, Jim S., Richard P., Simon R 
 
 ### Apologies
 
 
-### Round-the table updates
+### Quick updates in advance
 Alba:
 
 Anwar: 
@@ -17,10 +17,6 @@ Hannah:
 James L:
 
 Jim S:
-
-Kay:
-
-Petar:
 
 Richard:
 
