@@ -2,7 +2,7 @@
 
 
 ### Present: 
-AlbaC-B, Anwar, Hannah G, James L, Jim S., Richard P., Simon R 
+AlbaC-B, Anwar, Chris C.,  Hannah G, James L, Jess I., Jim S., Richard P., Simon R 
 
 ### Apologies
 
@@ -15,6 +15,8 @@ Anwar:
 Hannah:
 
 James L:
+
+Jess I:
 
 Jim S:
 
